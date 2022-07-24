@@ -1,5 +1,5 @@
 mqtt_config.json
-
+.vscode
 .idea/
 *venv
 #demos/
